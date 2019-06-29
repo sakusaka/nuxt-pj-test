@@ -33,6 +33,6 @@ export default {
 
 <style>
 .done {
-  text-decoration: line-through;
+  text-decoration: line-through; color: brown;
 }
 </style>
