@@ -19,7 +19,7 @@ module.exports = {
     vendor: [
       'vuex',
     ]
-  }
+  },
   /*
   ** Customize the progress-bar color
   */

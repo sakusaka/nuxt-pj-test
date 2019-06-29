@@ -6,7 +6,7 @@ export const mutations = {
     add (state, text) {
         state.list.push({
             text: text,
-            done: false;
+            done: false,
             id: state.list.length + 1,
         })
     },
