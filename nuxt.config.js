@@ -15,6 +15,11 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  build: {
+    vendor: [
+      'vuex',
+    ]
+  },
   /*
   ** Customize the progress-bar color
   */
