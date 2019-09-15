@@ -6,7 +6,7 @@
         pj-test
       </h1>
       <h2 class="subtitle">
-        My classy Nuxt.js project
+        My classy Nuxt.js project　テスト
       </h2>
       <div class="links">
         <a
